@@ -1,0 +1,7 @@
+# A CLI Weather app
+# LETS YOU KNOW THE TEMPERATURE OF THE LOCATION YOU ENTER
+
+# HOW TO USE
+
+# COMMAND
+node app "<your_location>"
